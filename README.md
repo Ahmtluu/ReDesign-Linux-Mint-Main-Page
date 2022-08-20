@@ -1,2 +1,2 @@
 # ReDesign-Linux-Mint-Main-Page
-Redesigning using React and MaterialUI
+Redesigning using React and MaterialUI (WORK IN PROGRESS! RESERVED!)
