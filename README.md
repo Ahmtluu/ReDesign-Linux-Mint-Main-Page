@@ -1,2 +1,2 @@
 # ReDesign-Linux-Mint-Main-Page
-Redesigning using React and MaterialUI (WORK IN PROGRESS! RESERVED!)
+Redesigning Linux Mint main page using React and React Boostrap (WORK IN PROGRESS! RESERVED!)
